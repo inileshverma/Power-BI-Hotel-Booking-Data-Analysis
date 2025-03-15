@@ -3,7 +3,7 @@
 This project aims to analyze hotel booking trends and key performance metrics to uncover insights into customer behavior, revenue trends, and seasonal booking variations. By leveraging data visualization in Power BI, the dashboard enables decision-makers to optimize business strategies, improve occupancy rates, and enhance customer satisfaction.
 
 ## Dataset used
-- <a href="https://github.com/inileshverma/Power-BI-Hotel-Booking-Data-Analysis/blob/main/Hotel%20Booking.pbix">Dataset</a>
+- <a href="https://github.com/inileshverma/Power-BI-Hotel-Booking-Data-Analysis/blob/main/Hotel_Bookings.xlsx">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Bookings: 74K total reservations recorded.
@@ -28,6 +28,7 @@ This project aims to analyze hotel booking trends and key performance metrics to
 - Final Deployment & Documentation: Compiled findings into an interactive Power BI dashboard for stakeholder decision-making.
  
 ## Dashboard
+![Hotel Booking Data Analysis](https://github.com/user-attachments/assets/ca542266-428b-4849-83e4-468008e5daa0)
 
 
 ## Project Insight
